@@ -14,7 +14,7 @@ lon = -95.6911 # Longitude of Cypress, TX
 weather_api_key = "ba77a69e7846e1208114b72b0b66139f"
 weather_url = f"http://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={weather_api_key}&units=imperial"
 
-# Twilio
+# Twilio stuff
 twilio_account_sid = "ACb91c70fc6a3394bc122a7e5bcb33e508"
 twilio_auth_token = "a67d456b00632cb6c644104678865abf"
 twilio_phone_number = "+18555967198"

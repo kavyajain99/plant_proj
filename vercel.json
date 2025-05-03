@@ -1,0 +1,8 @@
+{
+    "crons": [
+      {
+        "path": "/plant_proj/plant_checker",
+        "schedule": "* * * * *"
+      }
+    ]
+  }
